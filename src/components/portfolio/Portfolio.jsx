@@ -11,10 +11,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMAGE} alt='protfolio-image'/>
           </div>
-          <h3>portfolio items</h3>
+          <h3>An Ecommerce website</h3>
           <div className="portfolio__item cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://github.com' className='btn btn-primary'target='_blank'>Live Demo</a>
+            <a href='https://github.com/Aswanym/E-commerce' className='btn' target='_blank'>Github</a>
+            {/* <a href='https://github.com' className='btn btn-primary'target='_blank'>Live Demo</a> */}
           </div>
          
         </article>
@@ -22,10 +22,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMAGE} alt='protfolio-image'/>
           </div>
-          <h3>portfolio items</h3>
+          <h3>A Social media App</h3>
           <div className="portfolio__item cta">
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://github.com' className='btn btn-primary'target='_blank'>Live Demo</a>
+            <a href='https://github.com/Aswanym/sociailmedia' className='btn' target='_blank'>Github</a>
+            {/* <a href='https://github.com' className='btn btn-primary'target='_blank'>Live Demo</a> */}
           </div>
         </article>
       </div>

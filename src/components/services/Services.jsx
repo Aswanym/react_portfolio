@@ -11,21 +11,21 @@ const Services = () => {
         {/*START UI/UX SECTION */}
         <article className="service">
           <div className="service__head">
-            <h3>UI/ux design</h3>
+            <h3>Backend Development</h3>
           </div>
           <ul className='service__list'>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>haiiiii</p>
+              <p>I have been working as a python backend developer for last one year.</p>
             </li>
             <li>
               <AiOutlineCheck className='service__list-icon'/>
-              <p>haiiiii</p>
+              <p>Excellent at communication and working in team.</p>
             </li>
             <li>
-                <AiOutlineCheck className='service__list-icon'/>
-                <p>haiiiii</p>
-              </li>
+              <AiOutlineCheck className='service__list-icon'/>
+              <p>Really good solving complex problems and implement ideas in a robust way.</p>
+            </li>
             </ul>
           </article>
           {/*END UI/UX SECTION */}
@@ -37,19 +37,19 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <AiOutlineCheck className='service__list-icon'/>
-                <p>haiiiii</p>
+                <p>Completed one project in web development.</p>
               </li>
               <li>
                 <AiOutlineCheck className='service__list-icon'/>
-                <p>haiiiii</p>
+                <p>Good at frontend technologies such as HTML, CSS, Bootstrap.</p>
               </li>
               <li>
                   <AiOutlineCheck className='service__list-icon'/>
-                  <p>haiiiii</p>
+                  <p>Created responsive web applications.</p>
               </li>
               <li>
                   <AiOutlineCheck className='service__list-icon'/>
-                  <p>haiiiii</p>
+                  <p>Have knowledge of all the stages of web development from design to deployment.</p>
               </li>
               </ul>
             </article>
@@ -57,20 +57,20 @@ const Services = () => {
           {/*START LOGICAL DESIGNING SECTION */}
           <article className="service">
             <div className="service__head">
-              <h3>UI/ux design</h3>
+              <h3>UI/UX design</h3>
             </div>
             <ul className='service__list'>
               <li>
                 <AiOutlineCheck className='service__list-icon'/>
-                <p>haiiiii</p>
+                <p>Not much of a desinger.</p>
               </li>
               <li>
                 <AiOutlineCheck className='service__list-icon'/>
-                <p>haiiiii</p>
+                <p>Know the basics of desinging.</p>
               </li>
               <li>
                   <AiOutlineCheck className='service__list-icon'/>
-                  <p>haiiiii</p>
+                  <p>Learning process onging.</p>
                 </li>
               </ul>
             </article>

@@ -12,22 +12,11 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
 
-
 const data=[
   {
     avatar:AVTR1,
-    name: 'Richard William',
-    review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim iure illum autem dicta inventore distinctio natus dolores aut non nulla, sed, molestias suscipit, obcaecati sequi cupiditate quisquam minima sint incidunt!'
-  },
-  {
-    avatar:AVTR2,
-    name: 'Lilly Norman',
-    review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim iure illum autem dicta inventore distinctio natus dolores aut non nulla, sed, molestias suscipit, obcaecati sequi cupiditate quisquam minima sint incidunt!'
-  },
-  {
-    avatar:AVTR3,
-    name: 'Kail Jake',
-    review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim iure illum autem dicta inventore distinctio natus dolores aut non nulla, sed, molestias suscipit, obcaecati sequi cupiditate quisquam minima sint incidunt!'
+    name: 'Hari Krishnan',
+    review: 'Good work!!!. I appreciate the effort that you put in my project to complete that within limited time. I admire your dedication and growth mindset and wishing great future ahead.'
   }
 ]
 
